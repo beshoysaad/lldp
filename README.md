@@ -1,4 +1,4 @@
-# HON LLDP Agent
+# HON LLDP Agent - Summer Semester 2019
 
 This project implements a skeleton for a minimal LLDP agent in Python.
 
